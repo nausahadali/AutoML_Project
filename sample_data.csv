@@ -1,0 +1,11 @@
+age,city,income,purchased
+25,New York,50000,No
+30,London,80000,Yes
+22,New York,45000,No
+45,Paris,120000,Yes
+35,London,90000,Yes
+40,Paris,110000,Yes
+28,New York,60000,No
+50,London,150000,Yes
+33,New York,70000,No
+42,Paris,130000,Yes

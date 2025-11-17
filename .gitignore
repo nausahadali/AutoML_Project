@@ -1,0 +1,16 @@
+# Saved models
+trained_models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
